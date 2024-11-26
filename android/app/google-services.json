@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1019716577844",
+    "firebase_url": "https://crudfirebase-22435-default-rtdb.firebaseio.com",
+    "project_id": "crudfirebase-22435",
+    "storage_bucket": "crudfirebase-22435.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019716577844:android:bb781c474831846f27b861",
+        "android_client_info": {
+          "package_name": "com.examp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019716577844-0pt8f8fr3n6f0bn1vb8k0ciphdvoa786.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNxg4D97GhcDFUPO_bFbSeOkfZBmi60I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019716577844-0pt8f8fr3n6f0bn1vb8k0ciphdvoa786.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019716577844-fpqqc3ch4l2m8krfmse9dsfrv0jful09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realtimedatabasecrud"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019716577844:android:6d769a7314ff4d4527b861",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019716577844-v5f0pgh11gm1po62qds3fndl4oj0cd63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crudfirebase",
+            "certificate_hash": "4b859a171307c46260ac6a4c1cb07f680ec9b0c8"
+          }
+        },
+        {
+          "client_id": "1019716577844-0pt8f8fr3n6f0bn1vb8k0ciphdvoa786.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNxg4D97GhcDFUPO_bFbSeOkfZBmi60I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019716577844-0pt8f8fr3n6f0bn1vb8k0ciphdvoa786.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019716577844-fpqqc3ch4l2m8krfmse9dsfrv0jful09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realtimedatabasecrud"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019716577844:android:060a833fc7fdbfca27b861",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019716577844-8urgd4o0kk3oven6ejv7jvnhtcp724d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedatabasecrud",
+            "certificate_hash": "4b859a171307c46260ac6a4c1cb07f680ec9b0c8"
+          }
+        },
+        {
+          "client_id": "1019716577844-0pt8f8fr3n6f0bn1vb8k0ciphdvoa786.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNxg4D97GhcDFUPO_bFbSeOkfZBmi60I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019716577844-0pt8f8fr3n6f0bn1vb8k0ciphdvoa786.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019716577844-fpqqc3ch4l2m8krfmse9dsfrv0jful09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.realtimedatabasecrud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
